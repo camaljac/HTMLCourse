@@ -1,0 +1,28 @@
+/********** Base styles **********/
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: #F2F2F2;
+	font-family: Arial, Helvetica, Verdana;
+	font-size: 1.30em;
+}
+p {
+	padding: 20px;
+}
+
+.boton {
+	border-bottom: 1px solid white;
+}
+
+/** HEADER **/
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-header a {
+	font-size: 2em;
+	font-weight: bold;
+}
+
